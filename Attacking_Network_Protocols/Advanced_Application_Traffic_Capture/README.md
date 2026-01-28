@@ -7,4 +7,8 @@ Figure out which gateways to send traffic to
 iptables -t nat -F
 
 ##Forwarding Traffic to a Gateway
+### DHCP Spoofing
 ettercap -G
+
+###ARP Poisoning
+
